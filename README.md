@@ -1,4 +1,4 @@
-# NYPD_Findings
+# New York Police Department Complaint Analysis
 ### Hypothesis Test
 * Null Hypothesis: White officer complaint cases and Non-white officer complaint cases are equally as likely to go against the officer.
 
